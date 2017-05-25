@@ -1,5 +1,7 @@
 # 💫 GH-TO-PAGES
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/gh-to-pages.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/rohmanhm/gh-to-pages.svg?branch=master)](https://travis-ci.org/rohmanhm/gh-to-pages)
 
 > Convert Github Repo URL to Github Pages
