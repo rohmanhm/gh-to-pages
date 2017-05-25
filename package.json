@@ -1,0 +1,31 @@
+{
+  "name": "gh-to-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Convert Github Repo URL to Github Pages",
+  "license": "MIT",
+  "author": {
+    "name": "M H Rohman",
+    "email": "mhrohman@live.com",
+    "url": "https://github.com/rohmanhm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rohmanhm/gh-to-pages"
+  },
+  "keywords": [
+    "gh-to-pages",
+    "gh-pages",
+    "convert",
+    "github"
+  ],
+  "devDependencies": {
+    "ava": "^0.19.1"
+  },
+  "ava": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "ava"
+  }
+}
