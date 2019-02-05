@@ -20,7 +20,7 @@
     "github"
   ],
   "devDependencies": {
-    "ava": "^0.25.0"
+    "ava": "^1.2.1"
   },
   "ava": {
     "verbose": true
